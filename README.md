@@ -18,7 +18,7 @@ Projetos: Destaques dos projetos significativos em que trabalhei.
 Contato: Como entrar em contato comigo para oportunidades ou simplesmente para um bate-papo.
 
 Como Foi Feito
-Este currículo foi criado como parte de um desafio na plataforma da DIO (Digital Innovation One), com base nas diretrizes da W3C e utilizando HTML, CSS e JavaScript para torná-lo interativo. Se você gostaria de criar algo semelhante, pode consultar a referência da W3C. Referência W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
+Este currículo foi criado como parte de um desafio na plataforma da DIO (Digital Innovation One), com base nas diretrizes da W3C e utilizando HTML. Se você gostaria de criar algo semelhante, pode consultar a referência da W3C. Referência W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
 Fique à vontade para explorar, aprender mais sobre mim e entrar em contato. Espero que goste da experiência!
 
